@@ -22,8 +22,9 @@
 <br />
 
 ``` "Connect with me" ``` 🛠
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/tuntun-kumar-311866117/)
-[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://medium.com/@tuntunkumarjamui)
+
+[<img align="left" alt="LinkedIn" width="80" href="_blank" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/tuntun-kumar-311866117/)
+[<img align="left" href="_blank" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://medium.com/@tuntunkumarjamui)
 <br />
 
 
