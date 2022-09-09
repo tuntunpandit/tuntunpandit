@@ -4,8 +4,8 @@
 
 ``` "Know About Me" ``` 🛠
 
-- 🔭 I’m currently working on https://www.hoperesearchgroup.com/ 
-- 🌱 I’m currently learning REACT & NODE.JS 
+- 🔭 I’m currently working in Hashedin By Deloitte 
+- 🌱 I’m currently learning Angular & RxJs
 - 💬 Ask me about ANGULAR | JAVASCRIPT 
 - 📫 How to reach me: tuntunkumarjamui@gmail.com 
 <br />
