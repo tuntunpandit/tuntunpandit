@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Tuntun 
-####                 A Full Stack Developer from India.                              
+####                 A Front-End Developer from India.                              
 
 
 ``` "Know About Me" ``` 🛠
