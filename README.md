@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Tuntun 
+### Hi 👋, I'm Tuntun 
 ####                 A Front-End Developer from India.                              
 
 
